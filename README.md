@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/guneshsingh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[email protected]">
+  <a href="mailto:guneshsingh30@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/guneshsingh/" target="_blank">
@@ -22,7 +22,7 @@
 - 🧠 Strong interest in **Logical & Analytical Reasoning**
 - 📚 Dedicated daily practice toward competitive programming and interview prep
 - 🌱 Always learning, always building
-- 📫 Reach me at: **[email protected]**
+- 📫 Reach me at: **guneshisngh30@gmail.com**
 
 ---
 
