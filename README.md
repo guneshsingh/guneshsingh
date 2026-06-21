@@ -74,7 +74,7 @@ Daily Habit: A few hours of focused DSA & aptitude practice, every single day
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guneshsingh&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true" alt="Gunesh's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guneshsingh&show_icons=true&theme=synthwave&count_private=true" alt="Gunesh's GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guneshsingh&theme=synthwave" alt="Gunesh's GitHub streak" height="165" />
 </p>
 
