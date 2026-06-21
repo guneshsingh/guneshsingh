@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/gunesh-kumar-6061a7389" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[email protected]">
+  <a href="mailto:guneshsingh30@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/keep_up_gun/" target="_blank">
