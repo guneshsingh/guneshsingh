@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Gunesh Singh
 
-<!--
-**guneshsingh/guneshsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Learning:
+- C++
+- Python
+- DSA
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal:
+Become a Software Engineer and contribute to Open Source.
+
+📫 Reach me:
+- LinkedIn: www.linkedin.com/in/gunesh-kumar-6061a7389
+- Email: guneshsingh30@gmail.com
