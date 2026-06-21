@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=200&section=header&text=Gunesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SDE%20%7C%20B.Tech%20CSE%20%7C%20DSA%20%26%20Problem%20Solving&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=200&section=header&text=Gunesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SDE%20-%20B.Tech%20CSE%20-%20DSA%20and%20Problem%20Solving&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E54E9&center=true&vCenter=true&width=650&lines=Code.+Debug.+Repeat.;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Java+%E2%80%A2+Python;Solving+one+DSA+problem+at+a+time;Targeting+an+All-India+level+SDE+role" alt="Typing SVG" />
 
