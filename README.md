@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:8E54E9,100:4ECDC4&height=230&section=header&text=Gunesh%20Kumar&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Compiling%20Ambition.exe%20%7C%7C%20Debugging%20Doubt.exe&descAlignY=58&descSize=18&descColor=f0f0ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=200&section=header&text=Gunesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SDE%20-%20B.Tech%20CSE%20-%20DSA%20and%20Problem%20Solving&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8E54E9&center=true&vCenter=true&width=650&lines=root%40gunesh%3A~%24+whoami;%3E+Future+SDE+%7C+All-India+Aspirant;while(!success)+%7B+keepCoding()%3B+%7D;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Java+%E2%80%A2+Python" alt="Typing SVG" />
-
-<img src="https://github-readme-quotes.vercel.app/quote?theme=radical&width=600&border=false" alt="Random Dev Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E54E9&center=true&vCenter=true&width=650&lines=Code.+Debug.+Repeat.;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Java+%E2%80%A2+Python;Solving+one+DSA+problem+at+a+time;Targeting+an+All-India+level+SDE+role" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/gunesh-kumar-6061a7389" target="_blank">
@@ -43,35 +41,7 @@ Daily Habit: A few hours of focused DSA & aptitude practice, every single day
 - 🧩 Comfortable across **C, C++, Java, and Python** — pick the right tool for the problem
 - 🧠 Strong focus on **Logical & Analytical Reasoning** alongside core CS fundamentals
 - 📈 Practicing daily on **LeetCode** — building consistency before intensity
-- 🌱 Building real projects and getting better one problem at a time
-
----
-
-### 🚀 Projects
-
-#### 🎙️ AURA — AI Voice Assistant
-
-A real-time, voice-activated personal assistant built in Python. AURA listens for a wake word, executes everyday commands, and falls back to an LLM for open-ended conversation.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Speech%20Recognition-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/pyttsx3-TTS-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Groq%20LLM-Llama%203.3%2070B-purple?style=flat-square" />
-</p>
-
-**Features**
-- 🗣️ Wake-word activation (*"Aura"*) using `speech_recognition` + Google Speech API
-- 🌐 Voice-controlled web actions — opens Google, YouTube, LinkedIn, WhatsApp Web, etc.
-- 🎵 Plays songs from a local music library via `webbrowser`
-- 📰 Fetches the day's news on command
-- 🤖 Falls back to an LLM (**Llama 3.3 70B** via Groq's OpenAI-compatible API) for general conversation
-- 🔊 Real-time text-to-speech replies using `pyttsx3` (`sapi5` engine)
-- 🔐 API keys managed securely via `python-dotenv`
-
-**Tech Stack:** `Python` · `speech_recognition` · `pyttsx3` · `Groq API (OpenAI SDK)` · `python-dotenv` · `webbrowser`
-
-🔗 **[View Repo](https://github.com/guneshsingh/AURA-AI_voice)**
+- 🌱 Early in the journey, building in public, and getting better one problem at a time
 
 ---
 
@@ -101,9 +71,7 @@ A real-time, voice-activated personal assistant built in Python. AURA listens fo
 
 ---
 
-<details>
-<summary>📊 <b>GitHub Analytics</b> — click to expand</summary>
-<br>
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guneshsingh&show_icons=true&theme=synthwave&count_private=true" alt="Gunesh's GitHub stats" height="165" />
@@ -126,16 +94,16 @@ A real-time, voice-activated personal assistant built in Python. AURA listens fo
   <img src="https://codechef-readme-stats.vercel.app/api?username=keep_up_gun&theme=dark" alt="CodeChef Stats" height="150" />
 </p>
 
-</details>
-
 ---
 
 ### 🧗 What I'm Building Toward
 
-- [x] Build my **first project** — ✅ AURA, an AI-powered Python voice assistant
+No live projects yet — that's next on the list. Here's the roadmap:
+
+- [ ] Build my **first project** — a small C++/Python tool to start the GitHub commit habit
 - [ ] Build a **DSA visualizer or tracker** to log problem-solving progress
 - [ ] Build **1 mini full project** showcasing OOP + real-world logic
-- [ ] Push consistent commits — grow this Projects section over the coming months
+- [ ] Push consistent commits — turn this section into a real Projects table within a few months
 
 ---
 
@@ -143,7 +111,7 @@ A real-time, voice-activated personal assistant built in Python. AURA listens fo
 
 - [ ] Cross 300+ problems solved on LeetCode
 - [ ] Get rated on CodeChef & Codeforces by entering first contests
-- [x] Ship my first GitHub project — AURA
+- [ ] Ship my first GitHub project
 - [ ] Land an All-India level SDE internship/placement
 - [ ] Get strong enough at Reasoning & Aptitude to clear any placement exam comfortably
 - [ ] Build and maintain a daily coding streak
