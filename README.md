@@ -1,34 +1,30 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=200&section=header&text=Gunesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20|%20B.Tech%20CSE%20|%20DSA%20Enthusiast&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=220&section=header&text=Gunesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20B.Tech%20CSE%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E54E9&center=true&vCenter=true&width=700&lines=Code.+Debug.+Repeat.;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Java+%E2%80%A2+Python;Building+Projects+%26+Solving+DSA;Learning+Something+New+Every+Day;Future+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8E54E9&center=true&vCenter=true&width=750&lines=Code.+Debug.+Repeat.;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Building+Projects+Alongside+DSA;Learning+Something+New+Every+Day;Future+Software+Engineer"/>
 
-<p>
-  <a href="https://www.linkedin.com/in/gunesh-kumar-6061a7389">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<br>
 
-  <a href="mailto:guneshsingh30@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/gunesh-kumar-6061a7389">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/keep_up_gun/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=guneshsingh30@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.codechef.com/users/keep_up_gun">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+<a href="https://leetcode.com/keep_up_gun/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-  <a href="https://codeforces.com/profile/guneshsingh">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
+<a href="https://codeforces.com/profile/guneshsingh">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/guneshsingh/AURA-AI_voice">
-    <img src="https://img.shields.io/badge/AURA_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/guneshsingh/AURA-AI_voice">
+<img src="https://img.shields.io/badge/AURA%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -37,48 +33,69 @@
 # 👨‍💻 About Me
 
 ```yaml
-Name:        Gunesh Kumar
-Education:   B.Tech Computer Science & Engineering
-Year:        Second Year
-Languages:   C, C++, Java, Python
-Interest:    Data Structures & Algorithms
-Goal:        Software Development Engineer
-Current Focus:
-  - Competitive Programming
+Name: Gunesh Kumar
+
+Education:
+  B.Tech Computer Science & Engineering
+
+Current Year:
+  Second Year
+
+Languages:
+  - C
+  - C++
+  - Java
+  - Python
+
+Focus:
+  - Data Structures & Algorithms
   - Problem Solving
   - Object Oriented Programming
-  - Building Real Projects
+  - Competitive Programming
+
+Current Goal:
+  Become a Software Development Engineer
 ```
 
-* 🎓 B.Tech CSE student passionate about software development.
-* 💻 Solving DSA problems every day to improve analytical thinking.
-* 🚀 Building projects using Python and learning real-world development.
-* 🌱 Currently exploring AI, APIs, and software engineering concepts.
-* 🎯 Preparing for internships and future SDE roles.
+### 🚀 A little about me
+
+* 🎓 Second-year B.Tech CSE student passionate about Software Development.
+* 💻 Love solving DSA problems and improving logical thinking every day.
+* 🤖 Currently building Python projects while learning modern development.
+* 🌱 Exploring AI APIs, Git, GitHub and Backend Development.
+* 🎯 Preparing for internships and future Software Engineering roles.
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
 </p>
 
-### Tools
+### ⚙️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
-### Core Skills
+### 📚 Core Skills
 
-* Data Structures & Algorithms
-* Object Oriented Programming
-* Problem Solving
-* Competitive Programming
-* Logical Reasoning
+<p>
+
+<img src="https://img.shields.io/badge/Data%20Structures-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Algorithms-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OOP-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Competitive%20Programming-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-red?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -86,32 +103,42 @@ Current Focus:
 
 ## 🤖 AURA — AI Voice Assistant
 
-An intelligent desktop voice assistant built using Python capable of understanding voice commands, interacting with AI, opening websites, playing music, and performing daily productivity tasks.
+> An AI-powered desktop voice assistant developed in Python capable of understanding voice commands, opening websites, playing music, reading news, and answering questions using the Groq Llama 3.3 API.
 
 ### 🔗 Repository
 
-https://github.com/guneshsingh/AURA-AI_voice
+**https://github.com/guneshsingh/AURA-AI_voice**
+
+---
 
 ### ✨ Features
 
-* 🎙 Wake word detection ("Aura")
-* 🗣 Speech Recognition
+* 🎙 Wake Word Detection ("Aura")
+* 🎤 Speech Recognition
 * 🔊 Text-to-Speech
-* 🌐 Open Google, YouTube, LinkedIn, Facebook and WhatsApp
-* 🎵 Play songs using voice commands
-* 📰 Open latest news
-* 🤖 AI Chat using Groq Llama 3.3 70B
-* 🔐 Environment variable support using dotenv
+* 🌐 Open Google, YouTube, LinkedIn, Facebook & WhatsApp
+* 🎵 Play songs using custom music library
+* 📰 Read daily news
+* 🤖 AI Chat powered by Groq Llama 3.3
+* 🔐 Secure API key management using `.env`
 
-### 🛠 Technologies Used
+---
 
-* Python
-* SpeechRecognition
-* pyttsx3
-* OpenAI SDK
-* Groq API
-* dotenv
-* webbrowser
+### 🛠 Built With
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/SpeechRecognition-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/pyttsx3-7952B3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Groq_API-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -121,17 +148,17 @@ https://github.com/guneshsingh/AURA-AI_voice
 * Dynamic Programming
 * Graph Algorithms
 * Object-Oriented Programming
-* Git & GitHub
-* REST APIs
 * Python Development
+* REST APIs
+* Git & GitHub
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guneshsingh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=guneshsingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=guneshsingh&theme=tokyonight&hide_border=true"/>
 
@@ -140,16 +167,6 @@ https://github.com/guneshsingh/AURA-AI_voice
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guneshsingh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=guneshsingh&theme=tokyonight&row=1&column=7&no-frame=true"/>
 
 </p>
 
@@ -165,7 +182,7 @@ https://github.com/guneshsingh/AURA-AI_voice
 
 ---
 
-# 💻 Coding Profiles
+# 💻 LeetCode
 
 <p align="center">
 
@@ -173,35 +190,29 @@ https://github.com/guneshsingh/AURA-AI_voice
 
 </p>
 
-<p align="center">
-
-<img src="https://codechef-readme-stats.vercel.app/api?username=keep_up_gun&theme=dark"/>
-
-</p>
-
 ---
 
 # 🎯 2026 Goals
 
-* [ ] Solve **500+ LeetCode** problems
-* [ ] Reach **Specialist** on Codeforces
-* [ ] Become **4★ on CodeChef**
-* [ ] Build 5+ real-world projects
-* [ ] Learn Full Stack Development
+* [ ] Solve **500+** LeetCode Problems
+* [ ] Become active on Codeforces
+* [ ] Build 5+ Real-World Projects
+* [ ] Learn Backend Development
+* [ ] Master Data Structures & Algorithms
 * [ ] Secure an SDE Internship
-* [ ] Strengthen Core CS Fundamentals
+* [ ] Maintain a Daily GitHub Streak
 
 ---
 
-# 📂 Upcoming Projects
+# 📂 Project Roadmap
 
 | Project                    | Status         |
 | -------------------------- | -------------- |
 | 🤖 AURA AI Voice Assistant | ✅ Completed    |
 | 📊 DSA Tracker             | 🚧 In Progress |
-| ❤️ Blood Donation Finder   | 🚧 Planned     |
+| ❤️ Blood Donation Finder   | 📅 Planned     |
 | 📈 DSA Visualizer          | 📅 Planned     |
-| 🌐 Portfolio Website       | 📅 Planned     |
+| 🌐 Personal Portfolio      | 📅 Planned     |
 
 ---
 
@@ -215,7 +226,7 @@ https://github.com/guneshsingh/AURA-AI_voice
 
 ---
 
-# 💬 Random Dev Quote
+# 💬 Developer Quote
 
 <p align="center">
 
@@ -225,23 +236,11 @@ https://github.com/guneshsingh/AURA-AI_voice
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Enable this after setting up the GitHub Action for the snake animation.**
-
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/guneshsingh/guneshsingh/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-```
-
----
-
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## 🌟 Thanks for Visiting!
 
-*"Consistency beats intensity. One problem solved today is better than ten planned for tomorrow."*
+### *"Consistency beats intensity. Every line of code brings me one step closer to my goals."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:2E9EF7&height=120&section=footer"/>
 
