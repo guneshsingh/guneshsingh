@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:2C5364,100:8E54E9&height=230&section=header&text=%3C%20Gunesh%20Kumar%20%2F%3E&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Compiling%20Ambition.exe%20%7C%7C%20Debugging%20Doubt.exe&descAlignY=58&descSize=18&descColor=d8d8ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:8E54E9,100:4ECDC4&height=230&section=header&text=Gunesh%20Kumar&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Compiling%20Ambition.exe%20%7C%7C%20Debugging%20Doubt.exe&descAlignY=58&descSize=18&descColor=f0f0ff" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8E54E9&center=true&vCenter=true&width=650&lines=root%40gunesh%3A~%24+whoami;%3E+Future+SDE+%7C+All-India+Aspirant;while(!success)+%7B+keepCoding()%3B+%7D;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Java+%E2%80%A2+Python" alt="Typing SVG" />
+
+<img src="https://github-readme-quotes.vercel.app/quote?theme=radical&width=600&border=false" alt="Random Dev Quote" />
 
 <p>
   <a href="https://www.linkedin.com/in/gunesh-kumar-6061a7389" target="_blank">
@@ -99,7 +101,9 @@ A real-time, voice-activated personal assistant built in Python. AURA listens fo
 
 ---
 
-### 📊 GitHub Analytics
+<details>
+<summary>📊 <b>GitHub Analytics</b> — click to expand</summary>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guneshsingh&show_icons=true&theme=synthwave&count_private=true" alt="Gunesh's GitHub stats" height="165" />
@@ -121,6 +125,8 @@ A real-time, voice-activated personal assistant built in Python. AURA listens fo
 <p align="center">
   <img src="https://codechef-readme-stats.vercel.app/api?username=keep_up_gun&theme=dark" alt="CodeChef Stats" height="150" />
 </p>
+
+</details>
 
 ---
 
