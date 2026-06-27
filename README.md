@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=220&section=header&text=Gunesh%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20B.Tech%20CSE%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6B6B,50:8E54E9,100:2E9EF7&height=220&section=header&text=Gunesh%20Kumar&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20B.Tech%20CSE%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8E54E9&center=true&vCenter=true&width=750&lines=Code.+Debug.+Repeat.;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Building+Projects+Alongside+DSA;Learning+Something+New+Every+Day;Future+Software+Engineer"/>
 
